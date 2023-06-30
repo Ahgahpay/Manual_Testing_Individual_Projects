@@ -1,2 +1,5 @@
 # Manual_Testing_Individual_Projects
-This repository contains my personal projects carried out  using Manual Testing.
+This repository contains some of my personal projects carried out using Manual Testing.
++ Test Plan Documentation
++ Test Case Documentation
++ Test Summary Report
